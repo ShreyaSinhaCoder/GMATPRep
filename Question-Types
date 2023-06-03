@@ -1,0 +1,15 @@
+This file contains the various work and time question types.
+
+## TYPE 1 ##
+Distributing the amount among workers based on days they worked. 
+Peter can finish a work in x days, john in y days and jay in z days. Peter and John work on it for 2 days. John and Jay work on it for 1 day and then Peter and Jay work on it till work is completed. 
+They earn 5000 dollars for the job. This amount is distributed among them based on work they did. Find out how much Peter earned?
+
+## TYPE 2 ##
+Workers start together then some leave. 
+A group of workers was put on a job. From the second day onwards, one worker was withdrawn each day. The job was finished when the last worker was withdrawn. Had no worker been withdrawn at any stage, the group would have finished the job in two-third the time. How many workers were there in the group?
+
+## TYPE 3 ##
+When one person's speed is multiple of another's 
+A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:
+
